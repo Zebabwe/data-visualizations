@@ -9,3 +9,4 @@ Visualizations prepared and created through Tableau
     <a href="https://public.tableau.com/app/profile/bernard.diamante/viz/us-shootings/Dashboard1">Tableau Public</a>
   </li>
 </ul>
+<i>Group project by Andrew Altuna, Jeremy Canlas, and Bernard Diamante</i>
