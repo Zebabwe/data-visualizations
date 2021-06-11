@@ -9,7 +9,7 @@ Visualizations prepared and created through Tableau
     <a href="https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-detail.html#par_textimage_673542126">State Population by Characteristics (2010-2019)</a>
   </li>
   <li>
-    <a href="https://public.tableau.com/app/profile/bernard.diamante/viz/us-shootings/Dashboard1">Tableau Public (Interactive Dashboard</a>
+    <a href="https://public.tableau.com/app/profile/bernard.diamante/viz/us-shootings/Dashboard1">Tableau Public (Interactive Dashboard)</a>
   </li>
 </ul>
  <img src="https://github.com/Zebabwe/us-shootings/blob/main/us-shootings.png">
